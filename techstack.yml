@@ -1,0 +1,467 @@
+repo_name: 2lambda123/royal-chaos
+report_id: 7c2f064dda7faed5b0fee0364acd54b2
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T08:07:19+00:00'
+requested_by: snorkell-ai[bot]
+provider: github
+branch: master
+detected_tools_count: 38
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/royal-chaos
+  detection_source: Repo Metadata
+- name: MATLAB
+  description: A high-level language and interactive environment for numerical computation,
+    visualization, and programming
+  website_url: http://www.mathworks.com/products/matlab/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg
+  detection_source_url: https://github.com/2lambda123/royal-chaos
+  detection_source: Repo Metadata
+- name: Perl
+  description: Highly capable, feature-rich programming language with over 26 years
+    of development
+  website_url: http://www.perl.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos
+  detection_source: Repo Metadata
+- name: Smarty
+  description: Template engine for PHP
+  website_url: http://www.smarty.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos
+  detection_source: Repo Metadata
+- name: Memcached
+  description: High-performance, distributed memory object caching system
+  website_url: http://memcached.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1040/hDNnpa4a_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosmachine/chaos_controller/pom.xml
+  detection_source: chaosmachine/chaos_controller/pom.xml
+  last_updated_by: GluckZhang
+  last_updated_on: 2018-02-28 10:39:37.000000000 Z
+- name: RabbitMQ
+  description: Open source multiprotocol messaging broker
+  website_url: http://www.rabbitmq.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/pobs/experiments/hawkbit/docker-compose.yml
+  detection_source: pobs/experiments/hawkbit/docker-compose.yml
+  last_updated_by: gluckzhang
+  last_updated_on: 2021-02-03 16:51:33.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/.github/workflows/snorkell-auto-documentation.yml
+  detection_source: ".github/workflows/snorkell-auto-documentation.yml"
+  last_updated_by: snorkell-ai[bot]
+  last_updated_on: 2023-12-20 11:08:13.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: 4.13.1
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosmachine/annotation_processor/pom.xml
+  detection_source: chaosmachine/annotation_processor/pom.xml
+  last_updated_by: GluckZhang
+  last_updated_on: 2019-04-08 18:58:41.000000000 Z
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  version: 1.6.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosmachine/perturbation_injector/pom.xml
+  detection_source: chaosmachine/perturbation_injector/pom.xml
+  last_updated_by: GluckZhang
+  last_updated_on: 2018-04-11 08:55:58.000000000 Z
+- name: Prometheus
+  description: An open-source service monitoring system and time series database,
+    developed by SoundCloud
+  website_url: http://prometheus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaoseth/visualization/prometheus.yml
+  detection_source: chaoseth/visualization/prometheus.yml
+  last_updated_by: gluckzhang
+  last_updated_on: 2021-10-19 13:46:57.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/phoebe/requirements.txt
+  detection_source: phoebe/requirements.txt
+  last_updated_by: GluckZhang
+  last_updated_on: 2020-03-24 23:59:25.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosmachine/perturbation_injector/pom.xml
+  detection_source: chaosmachine/perturbation_injector/pom.xml
+  last_updated_by: GluckZhang
+  last_updated_on: 2018-02-28 10:39:37.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: GluckZhang
+  last_updated_on: 2019-09-28 11:43:53.000000000 Z
+- name: Debian
+  description: The Universal Operating System
+  website_url: https://www.debian.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/1656/vd4gAekh.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosorca/experiments/benchmark/Dockerfile
+  detection_source: chaosorca/experiments/benchmark/Dockerfile
+  last_updated_by: Jesper Simonsson
+  last_updated_on: 2019-05-14 17:55:13.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/2lambda123/royal-chaos
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos
+  detection_source: Repo Metadata
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosorca/tracers/bpftrace/Dockerfile
+  detection_source: chaosorca/tracers/bpftrace/Dockerfile
+  last_updated_by: Jesper Simonsson
+  last_updated_on: 2019-04-11 14:35:52.000000000 Z
+- name: gnuplot
+  website_url: http://www.gnuplot.info/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4138/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos
+  detection_source: Repo Metadata
+- name: com.googlecode.xmemcached:xmemcached
+  description: Extreme performance modern memcached client for java
+  version: 2.4.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosmachine/chaos_controller/pom.xml
+  detection_source: chaosmachine/chaos_controller/pom.xml
+  last_updated_by: GluckZhang
+  last_updated_on: 2018-04-26 16:16:53.000000000 Z
+- name: com.opencsv:opencsv
+  description: A simple library for reading and writing CSV in Java
+  version: '4.0'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosmachine/chaos_controller/pom.xml
+  detection_source: chaosmachine/chaos_controller/pom.xml
+  last_updated_by: GluckZhang
+  last_updated_on: 2018-04-26 16:16:53.000000000 Z
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  version: '2.7'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/pobs/tools/base_image_generator/integration_test/pom.xml
+  detection_source: pobs/tools/base_image_generator/integration_test/pom.xml
+  last_updated_by: GluckZhang
+  last_updated_on: 2019-10-24 21:35:21.000000000 Z
+- name: fr.inria.gforge.spoon:spoon-core
+  description: E45e0823422d7b794b5425b08f97af8c7048b62e
+  version: 7.4.0
+  license: CECILL-C
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosmachine/annotation_processor/pom.xml
+  detection_source: chaosmachine/annotation_processor/pom.xml
+  last_updated_by: GluckZhang
+  last_updated_on: 2019-04-08 18:58:41.000000000 Z
+- name: javax.mail:mail
+  description: "${project.name}"
+  version: 1.5.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/tripleagent/agents_controller/pom.xml
+  detection_source: tripleagent/agents_controller/pom.xml
+  last_updated_by: GluckZhang
+  last_updated_on: 2019-04-17 16:08:26.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: 4.13.1
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosmachine/annotation_processor/pom.xml
+  detection_source: chaosmachine/annotation_processor/pom.xml
+  last_updated_by: GluckZhang
+  last_updated_on: 2019-04-08 18:58:41.000000000 Z
+- name: org.hamcrest:hamcrest-all
+  description: A self-contained hamcrest jar containing all of the sub-modules in
+    a single artifact
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosmachine/perturbation_injector/pom.xml
+  detection_source: chaosmachine/perturbation_injector/pom.xml
+  last_updated_by: GluckZhang
+  last_updated_on: 2018-04-11 08:55:58.000000000 Z
+- name: org.hamcrest:hamcrest-core
+  description: Core Hamcrest API - deprecated
+  version: '1.3'
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosmachine/perturbation_injector/example/pom.xml
+  detection_source: chaosmachine/perturbation_injector/example/pom.xml
+  last_updated_by: GluckZhang
+  last_updated_on: 2018-04-11 08:55:58.000000000 Z
+- name: org.hamcrest:hamcrest-library
+  description: A library of Hamcrest matchers - deprecated
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosmachine/perturbation_injector/pom.xml
+  detection_source: chaosmachine/perturbation_injector/pom.xml
+  last_updated_by: GluckZhang
+  last_updated_on: 2018-04-11 08:55:58.000000000 Z
+- name: org.slf4j:slf4j-log4j12
+  description: SLF4J LOG4J-12 Binding
+  version: 1.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosmachine/perturbation_injector/pom.xml
+  detection_source: chaosmachine/perturbation_injector/pom.xml
+  last_updated_by: GluckZhang
+  last_updated_on: 2018-04-11 08:55:58.000000000 Z
+- name: PTable
+  description: A simple Python library for easily displaying tabular data in a visually
+    appealing ASCII table format
+  package_url: https://pypi.org/project/PTable
+  license: BSD-1-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20500/default_a9e634a7c657a965e05768baf78c0866b5eb78ba.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/phoebe/requirements.txt
+  detection_source: phoebe/requirements.txt
+  last_updated_by: GluckZhang
+  last_updated_on: 2020-03-24 23:59:25.000000000 Z
+- name: click
+  description: Composable command line interface toolkit
+  package_url: https://pypi.org/project/click
+  version: '7.0'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19830/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosorca/orc/requirements.txt
+  detection_source: chaosorca/orc/requirements.txt
+  last_updated_by: Jesper Simonsson
+  last_updated_on: 2019-03-29 13:04:55.000000000 Z
+- name: prometheus_client
+  description: Python client for the Prometheus monitoring system
+  package_url: https://pypi.org/project/prometheus_client
+  version: 0.6.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20138/default_927321425328d95d5d3f0c8b9fe47f1a2cffb5bf.png
+  detection_source_url: https://github.com/2lambda123/royal-chaos/blob/master/chaosorca/netm/requirements.txt
+  detection_source: chaosorca/netm/requirements.txt
+  last_updated_by: Jesper Simonsson
+  last_updated_on: 2019-03-29 13:04:55.000000000 Z
